@@ -7,7 +7,7 @@ Developer 👨‍💻 | Gamer 🎮
 Jeyaraman is a emerging machine learning developer and a gamer. He has build some machine learning projects with real world applications and projects which automates the daily life of a normal person .
 
 * 🌍  I'm based in Tirunelveli , IN
-* 🖥️  See my portfolio at [https://digital-cv-nn0q.onrender.com/](http://digital-cv-nn0q.onrender.com/)
+* 🖥️  See my portfolio at [https://robojunior.github.io/jeyaraman.github.io/](https://robojunior.github.io/jeyaraman.github.io/)
 * ✉️  You can contact me at [jeyaramanjr7@gmail.com](mailto:jeyaramanjr7@gmail.com)
 * 🧠  I'm learning Langchain, Open AI
 
