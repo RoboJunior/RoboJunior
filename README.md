@@ -46,8 +46,9 @@ Backend developer focused on building scalable, production-ready systems with Py
 </p>
 
 **Workflows:**
+<p align="left">
 <a href="https://ibb.co/N68LTwBh"><img src="https://i.ibb.co/DDx7r32X/Temporal-Symbol-light-1-2x.png" alt="Temporal" width="36" height="36"></a>
-
+</p>
 
 ### Current Focus
 - 🔭 Building AI-powered document processing and chat platforms
