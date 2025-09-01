@@ -9,7 +9,7 @@ Dedicated Backend Developer with a BE in Mechatronics Engineering and hands-on e
 * 🌍  I'm based in Bengaluru, Karnataka, IN
 * 🖥️  See my portfolio at [https://robojunior.github.io/jeyaraman.github.io/](https://robojunior.github.io/jeyaraman.github.io/)
 * ✉️  You can contact me at [jeyaramanjr7@gmail.com](mailto:jeyaramanjr7@gmail.com)
-* 🧠  I'm learning Advanced AI/ML, RAG Architecture, and Event-Driven Systems
+* 🧠  I'm learning Advanced AI/ML, RAG Architecture, Event-Driven Systems, Data structures And Algorithms and Mathematical Modeling
 
 ### Skills
 
@@ -26,6 +26,7 @@ Dedicated Backend Developer with a BE in Mechatronics Engineering and hands-on e
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" /></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zVP66BY5/logomark.png" width="36" height="36" alt="Qdrant"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/NvXhbZX/New4j.png" alt="Neo4j" width="36" height="36"></a>
 </p>
 
 **Cloud & Infrastructure:**
@@ -47,7 +48,6 @@ Dedicated Backend Developer with a BE in Mechatronics Engineering and hands-on e
 - 🔭 Building AI-powered document processing and chat platforms
 - 🌱 Exploring advanced RAG architectures and semantic search
 - 💡 Developing event-driven systems with real-time capabilities
-- 📊 Working with large-scale data processing (40TB+ enterprise data)
 
 ### Socials
 <p align="left"> 
