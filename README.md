@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI/Backend Developer 🤖 | Gamer 🎮
 ----------------------------------
 
-Dedicated Backend Developer with a BE in Mechatronics Engineering and hands-on experience in building scalable systems using Python, FastAPI, and PostgreSQL. Currently working as a Software Engineer Trainee at Bootlabs, building AI-powered solutions and document processing pipelines.
+Backend developer focused on building scalable, production-ready systems with Python, FastAPI and PostgreSQL. Currently at Bootlabs, developing AI-powered document processing pipelines and infrastructure for reliable, high-throughput data workflows.
 
 * 🌍  I'm based in Bengaluru, Karnataka, IN
 * 🖥️  See my portfolio at [https://robojunior.github.io/jeyaraman.github.io/](https://robojunior.github.io/jeyaraman.github.io/)
@@ -26,7 +26,7 @@ Dedicated Backend Developer with a BE in Mechatronics Engineering and hands-on e
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" /></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zVP66BY5/logomark.png" width="36" height="36" alt="Qdrant"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/NvXhbZX/New4j.png" alt="Neo4j" width="50" height="40"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/NvXhbZX/New4j.png" alt="Neo4j" width="40" height="40"></a>
 </p>
 
 **Cloud & Infrastructure:**
