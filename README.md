@@ -35,6 +35,7 @@ Backend developer focused on building scalable, production-ready systems with Py
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://ibb.co/gLqHc9KG"><img src="https://i.ibb.co/Vcnrk94d/logo.png" alt="kubernetes" width="36" height="36"></a>
 </p>
 
 **AI/ML & Tools:**
