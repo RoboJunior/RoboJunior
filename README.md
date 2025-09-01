@@ -48,6 +48,7 @@ Backend developer focused on building scalable, production-ready systems with Py
 **Workflows:**
 <p align="left">
 <a href="https://ibb.co/N68LTwBh"><img src="https://i.ibb.co/DDx7r32X/Temporal-Symbol-light-1-2x.png" alt="Temporal" width="36" height="36"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/nstWrfrX/ICON-White-on-Transparent.png" alt="Kafka" width="36" height="36"></a><br /><a target='_blank' href='https://nonprofitlight.com/ok/tulsa/parkside-inc'>parkside tulsa</a><br />
 </p>
 
 ### Current Focus
