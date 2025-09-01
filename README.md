@@ -45,10 +45,11 @@ Backend developer focused on building scalable, production-ready systems with Py
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/K3rz79N/mcp-server-stroke-rounded.png" alt="mcp-server" width="36" height="36"></a>
 </p>
 
-**Workflows:**
+**Workflows & Event Streaming:**
 <p align="left">
 <a href="https://ibb.co/N68LTwBh"><img src="https://i.ibb.co/DDx7r32X/Temporal-Symbol-light-1-2x.png" alt="Temporal" width="36" height="36"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/nstWrfrX/ICON-White-on-Transparent.png" alt="Kafka" width="36" height="36"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/B2YbYdBq/PubSub.png" alt="PubSub" width="36" height="36"></a>
 </p>
 
 ### Current Focus
