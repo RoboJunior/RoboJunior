@@ -40,8 +40,7 @@ Backend developer focused on building scalable, production-ready systems with Py
 **AI/ML & Tools:**
 <p align="left">
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://python.langchain.com/img/brand/wordmark.png" width="72" height="36" alt="LangChain" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/3yVwHX3X/agent-development-kit.png" alt="agent-development-kit" width="36" height="36"></a>
 </p>
 
 ### Current Focus
