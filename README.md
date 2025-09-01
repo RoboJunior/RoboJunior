@@ -45,9 +45,13 @@ Backend developer focused on building scalable, production-ready systems with Py
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/K3rz79N/mcp-server-stroke-rounded.png" alt="mcp-server" width="36" height="36"></a>
 </p>
 
+**Workflows:**
+<a href="https://ibb.co/N68LTwBh"><img src="https://i.ibb.co/DDx7r32X/Temporal-Symbol-light-1-2x.png" alt="Temporal" width="36" height="36"></a>
+
+
 ### Current Focus
 - 🔭 Building AI-powered document processing and chat platforms
-- 🌱 Exploring advanced RAG architectures and semantic search
+- 🌱 Exploring Data Structures, Algorithms and mathematical modeling
 - 💡 Developing event-driven systems with real-time capabilities
 
 ### Socials
