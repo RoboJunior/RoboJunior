@@ -25,7 +25,7 @@ Dedicated Backend Developer with a BE in Mechatronics Engineering and hands-on e
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" /></a>
-<a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://ibb.co/XxFYYKg4" width="72" height="36" alt="Qdrant" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/zVP66BY5/logomark.png" alt="Qdrant" border="0"></a>
 </p>
 
 **Cloud & Infrastructure:**
