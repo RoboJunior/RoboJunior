@@ -43,6 +43,7 @@ Backend developer focused on building scalable, production-ready systems with Py
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://python.langchain.com/img/brand/wordmark.png" width="72" height="36" alt="LangChain" /></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/3yVwHX3X/agent-development-kit.png" alt="agent-development-kit" width="36" height="36"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/K3rz79N/mcp-server-stroke-rounded.png" alt="mcp-server" width="36" height="36"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/1ffg6Zsd/Vertex-AI.png" alt="Vertex-AI" width="36" height="36"></a>
 </p>
 
 **Workflows & Event Streaming:**
