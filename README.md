@@ -71,8 +71,14 @@ Backend developer focused on building scalable, production-ready systems with Py
 
 <b>Top Repositories</b>
 <div width="100%" align="center">
-<a href="https://github.com/RoboJunior/dall-e2-image-model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RoboJunior&repo=dall-e2-image-model&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/RoboJunior/Pdf_bot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RoboJunior&repo=Pdf_bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/RoboJunior/Voice-Agent" align="left">
+  <img align="left" width="45%" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=RoboJunior&repo=Voice-Agent&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+<a href="https://github.com/RoboJunior/Coding-Buddy" align="right">
+  <img align="right" width="45%" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=RoboJunior&repo=Coding-Buddy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
 </div>
 
 <br /><br /><br /><br /><br /><br /><br />
