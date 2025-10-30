@@ -7,7 +7,7 @@ AI/Backend Developer 🤖 | Gamer 🎮
 Backend developer focused on building scalable, production-ready systems with Python, FastAPI and PostgreSQL. Currently at Bootlabs, developing AI-powered document processing pipelines and infrastructure for reliable, high-throughput data workflows.
 
 * 🌍  I'm based in Bengaluru, Karnataka, IN
-* 🖥️  See my portfolio at [https://robojunior.github.io/jeyaraman.github.io/](https://robojunior.github.io/jeyaraman.github.io/)
+* 🖥️  See my portfolio at [https://robojunior.github.io/jeyaraman.github.io/](http://robojunior.github.io/robojunior-portfolio/)
 * ✉️  You can contact me at [jeyaramanjr7@gmail.com](mailto:jeyaramanjr7@gmail.com)
 * 🧠  I'm learning Advanced AI/ML, RAG Architecture, Event-Driven Systems, Data structures And Algorithms and Mathematical Modeling
 
